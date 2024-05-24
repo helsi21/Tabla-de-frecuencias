@@ -1,0 +1,50 @@
+body{
+    background-color: aliceblue;
+
+      
+}
+
+.button{
+    background-color:black;
+    color: white;
+    padding: 5px;
+    width: auto;
+    height: 30px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+table{
+    font-family: sans-serif;
+    margin:200px auto;
+    box-shadow: 0 0 14px black;
+    text-align: center;
+    font-weight: bold;
+    border-spacing:0;
+}
+
+.titulo{
+    font-family: "Rubik Mono One", monospace;
+    text-align: center;
+    font-weight: 400;     
+}
+
+td{
+    padding: 15px;
+    border: solid 1px rgb(228, 225, 225);
+    
+}
+
+thead{
+    background-color: rgb(70, 70, 233);
+    color: white;
+}
+
+.tbody{
+    background-color: white;
+}
+
+.tfoot{
+    background-color: rgb(180, 204, 248);
+}
+
